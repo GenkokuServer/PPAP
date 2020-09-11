@@ -1,0 +1,4 @@
+name: PPAPlugin
+version: @version@
+main: city.genkoku.ppaplugin.PPAPlugin
+description: POOP Player Alert Plugin.
